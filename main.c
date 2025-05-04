@@ -12,7 +12,6 @@ int main(){
     int best_average = 0;
 
     for(int i = 0; i < 5; i++){
-        printf("");
         scanf("%s %d %d %d %d %d %d %d %d %d %d %d %d %d", name[i], &grade[i][0], &grade[i][1], &grade[i][2], &grade[i][3],
         &grade[i][4], &grade[i][5], &grade[i][6], &grade[i][7], &grade[i][8], &grade[i][9], &grade[i][10], &grade[i][11], &grade[i][12]);
 
